@@ -10,7 +10,7 @@ class P5{
 	num = sc.nextLong();
 	while(num != 0) {
 		if((num % 10) % 2 == 0)
-				i++;
+		i++;
 		num = num / 10;
 	}
 	System.out.println("No of even digits : " + i);
