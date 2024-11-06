@@ -10,6 +10,6 @@ class P5 {
 			num = num / 10;
 			i++;
 		}
-		System.out.println("No of digits : " + i);
+	    System.out.println("No of digits : " + i);
 	}
 }

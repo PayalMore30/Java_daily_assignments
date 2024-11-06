@@ -7,7 +7,7 @@ class P3 {
 	num = sc.nextInt();
 	for(int i=num; i>=0; i--)
 	{
-	  if(i%2==0)
+	  if(i % 2 ==0)
 	   {
 	      System.out.print(i+ " ");
 	   }

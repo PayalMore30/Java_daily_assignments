@@ -17,6 +17,7 @@ class P1 {
 		}
 	     }
 	     System.out.println("sum = " + sum);
+		
 	     if(sum < num) 
              	System.out.println("Deficient num.");
 	     else 

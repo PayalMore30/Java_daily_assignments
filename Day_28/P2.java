@@ -15,6 +15,6 @@ class P2 {
 			dec = dec * 8 + num;
 			i++;
 		}	
-		System.out.println("Decimal : "  + dec);
+	    System.out.println("Decimal : "  + dec);
 	}	
 }
